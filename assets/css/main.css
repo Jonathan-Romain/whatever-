@@ -31,8 +31,12 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+
 }
 
+#red {
+	color: red;
+}
 ol, ul {
 	list-style: none;
 }
@@ -206,6 +210,7 @@ input, select, textarea {
 	h1 {
 		font-size: 3.5rem;
 		line-height: 1.2;
+		color: red;
 	}
 
 	h2 {
